@@ -1,5 +1,6 @@
-<h4 align="right"><strong><a href="https://github.com/flyun/chatAir">English</a></strong> | <strong><a href="https://github.com/flyun/chatAir/blob/chatair/README_CN.md">中文</a></strong></h4>
-<p align="left">
+![Gemini Cover](https://github.com/skydoves/gemini-android/assets/24237865/bf8e6cc9-3729-49f8-8f50-b45d6649668f)
+
+
   <a align="center" href="https://miaoyan.app/" target="_blank"><img src=https://github.com/flyun/chatAir/blob/chatair/TMessagesProj/src/main/ic_launcher-playstore.png width=138 /></a>
   <h1 align="left">ChatAir</h1>
   <div align="left">ChatAir is a native Android app for ChatGPT, Gemini, and Claude</div>
